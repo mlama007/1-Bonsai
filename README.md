@@ -1,4 +1,4 @@
 ### Overview
 https://mlama007.github.io/1-Bonsai/
 
-This is a static page which shows a mock design and layout.
+This application allows you to change the image, top and bottom text to create a meme.
